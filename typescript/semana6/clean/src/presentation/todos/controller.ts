@@ -1,4 +1,4 @@
-import { Request, Response } from 'express';
+import { Request, Response } from '../../../../../../practica_3/node_modules/@types/express';
 import { CreateTodoDto, UpdateTodoDto } from '../../domain/dtos';
 import { CreateTodo, DeleteTodo, GetTodo, GetTodos, TodoRepository, UpdateTodo } from '../../domain';
 

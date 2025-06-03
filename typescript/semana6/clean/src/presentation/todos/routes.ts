@@ -1,4 +1,4 @@
-import { Router } from 'express';
+import { Router } from '../../../../../../practica_3/node_modules/@types/express';
 import { TodosController } from './controller';
 import { DatasourceConfig, DatasourceType } from '../../infrastructure/datasource/datasource.config';
 import { TodoRepositoryImpl } from '../../infrastructure/repositories/todo.repository.impl';

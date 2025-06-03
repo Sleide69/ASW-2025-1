@@ -1,4 +1,4 @@
-import { Entity, PrimaryGeneratedColumn, Column, ManyToMany } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column, ManyToMany } from '../../../../../practica_3/node_modules/typeorm';
 import { Flashcard } from './Flashcard';
 
 @Entity('categories')

@@ -1,4 +1,4 @@
-import { Request, Response } from 'express';
+import { Request, Response } from '../../../../../practica_3/node_modules/@types/express';
 import { FlashcardService } from '../services/FlashcardService';
 import { CreateFlashcardDTO, UpdateFlashcardDTO } from '../models/FlashcardDTO';
 

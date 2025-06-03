@@ -1,4 +1,4 @@
-import express, { Router } from 'express';
+import express, { Router } from '../../../../../practica_3/node_modules/@types/express';
 import compression from 'compression';
 import path from 'path';
 

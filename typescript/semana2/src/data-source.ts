@@ -1,5 +1,5 @@
-import "reflect-metadata";
-import { DataSource } from "typeorm";
+import "../../../practica_3/node_modules/reflect-metadata";
+import { DataSource } from "../../../practica_3/node_modules/typeorm";
 import { User } from "./entity/User";
 import { View } from "./entity/View";
 

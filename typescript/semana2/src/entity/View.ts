@@ -1,4 +1,4 @@
-import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from "typeorm";
+import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from "../../../../practica_3/node_modules/typeorm";
 import { User } from "./User";
 
 @Entity()

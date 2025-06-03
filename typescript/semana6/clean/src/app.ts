@@ -1,4 +1,4 @@
-import 'reflect-metadata';
+import '../../../../practica_3/node_modules/reflect-metadata';
 import { envs } from './config/envs';
 import { AppRoutes } from './presentation/routes';
 import { Server } from './presentation/server';

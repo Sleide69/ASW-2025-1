@@ -1,5 +1,5 @@
-import 'reflect-metadata';
-import express, { Express } from 'express';
+import '../../../../practica_3/node_modules/reflect-metadata';
+import express, { Express } from '../../../../practica_3/node_modules/@types/express';
 import { AppDataSource, initializeDatabase } from './database/database';
 import flashcardRoutes from './routes/flashcardRoutes';
 import categoryRoutes from './routes/categoryRoutes';

@@ -1,4 +1,4 @@
-import { DataSource } from 'typeorm';
+import { DataSource } from '../../../../../../practica_3/node_modules/typeorm';
 import { config } from 'dotenv';
 import { TodoTypeOrm } from './mappers/todo.mapper';
 

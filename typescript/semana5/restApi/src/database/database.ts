@@ -1,4 +1,4 @@
-import { DataSource } from 'typeorm';
+import { DataSource } from '../../../../../practica_3/node_modules/typeorm';
 import { Flashcard } from '../models/Flashcard';
 import { Category } from '../models/Category';
 import { FlashcardView } from '../models/FlashcardView';

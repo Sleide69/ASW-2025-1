@@ -1,4 +1,4 @@
-import { Request, Response } from 'express';
+import { Request, Response } from '../../../../../practica_3/node_modules/@types/express';
 import { CategoryService } from '../services/CategoryService';
 import { CreateCategoryDTO, UpdateCategoryDTO } from '../models/CategoryDTO';
 

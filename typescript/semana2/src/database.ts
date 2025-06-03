@@ -1,4 +1,4 @@
-import "reflect-metadata";
+import "../../../practica_3/node_modules/reflect-metadata";
 import { AppDataSource } from "./data-source";
 
 export const initializeDatabase = async () => {

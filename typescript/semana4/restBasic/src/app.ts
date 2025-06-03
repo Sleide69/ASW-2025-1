@@ -1,4 +1,4 @@
-import express, { Request, Response } from 'express';
+import express, { Request, Response } from '../../../../practica_3/node_modules/@types/express';
 const app = express();
 
 app.use(express.json());

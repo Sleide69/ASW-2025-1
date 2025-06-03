@@ -1,4 +1,4 @@
-import { Entity, PrimaryGeneratedColumn, Column, CreateDateColumn, ManyToOne, JoinColumn } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column, CreateDateColumn, ManyToOne, JoinColumn } from '../../../../../practica_3/node_modules/typeorm';
 import { Flashcard } from './Flashcard';
 
 @Entity('flashcard_views')

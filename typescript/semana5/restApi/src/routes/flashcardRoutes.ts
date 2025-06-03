@@ -1,4 +1,4 @@
-import { Router } from 'express';
+import { Router } from '../../../../../practica_3/node_modules/@types/express';
 import { FlashcardController } from '../controllers/FlashcardController';
 
 const router = Router();

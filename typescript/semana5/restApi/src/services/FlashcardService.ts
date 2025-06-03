@@ -1,4 +1,4 @@
-import { In } from 'typeorm';
+import { In } from '../../../../../practica_3/node_modules/typeorm';
 import { Flashcard } from '../models/Flashcard';
 import { Category } from '../models/Category';
 import { CreateFlashcardDTO, UpdateFlashcardDTO } from '../models/FlashcardDTO';

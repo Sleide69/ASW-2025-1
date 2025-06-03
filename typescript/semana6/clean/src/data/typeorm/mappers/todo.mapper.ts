@@ -1,4 +1,4 @@
-import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, Column } from '../../../../../../../practica_3/node_modules/typeorm';
 import { TodoEntity } from '../../../domain/entities/todo.entity';
 
 @Entity('todo')
